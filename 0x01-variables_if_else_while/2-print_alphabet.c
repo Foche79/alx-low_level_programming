@@ -8,7 +8,7 @@ int main(void)
 {
 	char lv;
 
-	for (lv = 'a'; lv <= 'z'; lv++);
+	for (lv = 'a'; lv <= 'z'; lv++)
 	{
 		putchar(lv);
 	}
