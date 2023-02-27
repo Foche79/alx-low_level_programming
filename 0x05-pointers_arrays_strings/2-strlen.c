@@ -2,7 +2,7 @@ include "main.h"
 
 /**
  * _strlen - return the length of a string
- * @s:char to checked
+ * @s: char to checked
  * Return: 0
  */
 
