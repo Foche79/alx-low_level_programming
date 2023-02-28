@@ -1,10 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /**
- * main - Entry
- * Return: Always 0
+ * main - print according to digit
+ * Return: Always (success)
  */
+
 int main(void)
 {
 	int n, lastd;
